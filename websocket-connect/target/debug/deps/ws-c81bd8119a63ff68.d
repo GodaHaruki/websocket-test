@@ -1,0 +1,17 @@
+/workspace/websocket-test/websocket-connect/target/debug/deps/ws-c81bd8119a63ff68.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/communication.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/connection.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/factory.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/frame.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/handler.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/handshake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/io.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/message.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/protocol.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/result.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/stream.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/util.rs
+
+/workspace/websocket-test/websocket-connect/target/debug/deps/ws-c81bd8119a63ff68.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/communication.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/connection.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/factory.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/frame.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/handler.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/handshake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/io.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/message.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/protocol.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/result.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/stream.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/util.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/communication.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/connection.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/factory.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/frame.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/handler.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/handshake.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/io.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/message.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/protocol.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/result.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/stream.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.9.2/src/util.rs:
